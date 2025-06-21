@@ -1,3 +1,18 @@
+# llol_step06
+
+[![Build Status](...)](link) [![License](...)](link)
+
+
+## 🔧 Clone & Setup
+
+```bash
+git clone https://github.com/TamerOnLine/llol_step06.git
+cd llol_step07
+python -m venv venv
+.\venv\Scripts\Activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
 
 
 
