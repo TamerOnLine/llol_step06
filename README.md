@@ -7,7 +7,7 @@
 
 ```bash
 git clone https://github.com/TamerOnLine/llol_step06.git
-cd llol_step07
+cd llol_step06
 python -m venv venv
 .\venv\Scripts\Activate
 python -m pip install --upgrade pip
