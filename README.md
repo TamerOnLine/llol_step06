@@ -4,7 +4,7 @@
 
 ## 🛠️ Next Step
 
-> 👉 [Go to llol_step05 →](https://github.com/TamerOnLine/llol_step05)
+> 👉 [Go to llol_step07 →](https://github.com/TamerOnLine/llol_step07)
 
 - Language-aware admin forms
 - Live editing in multiple languages
