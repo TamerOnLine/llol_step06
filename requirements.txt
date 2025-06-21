@@ -7,5 +7,8 @@ flask-babel==4.0.0
 deep_translator
 # step 14 - 05: Install Flask-Migrate
 polib
+# step 14 - llol_step06:
+python-dotenv
+psycopg2-binary
 
 
